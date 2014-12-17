@@ -1,0 +1,6 @@
+E:\StockMarketExpService\StockMarketExpService\bin\StockMarketExpService.dll
+E:\StockMarketExpService\StockMarketExpService\bin\StockMarketExpService.pdb
+E:\StockMarketExpService\StockMarketExpService\obj\Debug\StockMarketExpService.dll
+E:\StockMarketExpService\StockMarketExpService\obj\Debug\StockMarketExpService.pdb
+E:\StockMarketExpService\StockMarketExpService\obj\Debug\StockMarketExpService.csproj.ResolveComReference.cache
+E:\StockMarketExpService\StockMarketExpService\obj\Debug\StockMarketExpService.csprojResolveAssemblyReference.cache

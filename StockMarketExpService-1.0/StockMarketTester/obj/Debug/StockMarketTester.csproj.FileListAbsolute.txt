@@ -1,0 +1,17 @@
+E:\StockMarketExpService\StockMarketTester\bin\Debug\StockMarketTester.exe.config
+E:\StockMarketExpService\StockMarketTester\bin\Debug\StockMarketTester.exe
+E:\StockMarketExpService\StockMarketTester\bin\Debug\StockMarketTester.pdb
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.Properties.Resources.resources
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.csproj.GenerateResource.Cache
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.exe
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.pdb
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.Form1.resources
+E:\StockMarketExpService\StockMarketTester\bin\Debug\ExcelLibrary.dll
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.csproj.ResolveComReference.cache
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.Form2.resources
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.Form3.resources
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.csprojResolveAssemblyReference.cache
+E:\StockMarketExpService\StockMarketTester\bin\Debug\StockMarketTester.exe.manifest
+E:\StockMarketExpService\StockMarketTester\bin\Debug\StockMarketTester.application
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.exe.manifest
+E:\StockMarketExpService\StockMarketTester\obj\Debug\StockMarketTester.application

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0e89fbef-69ea-47e3-9f73-ecb09bcd362a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:32999/StockExpService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="StockExpService.xsd" MetadataType="Schema" ID="39ed0de5-0756-4ffc-bb65-5dec46b36f6b" SourceId="1" SourceUrl="http://localhost:32999/StockExpService.svc?xsd=xsd2" />
+    <MetadataFile FileName="StockExpService.wsdl" MetadataType="Wsdl" ID="e824a21b-daf2-4017-82d6-af968d5ad53c" SourceId="1" SourceUrl="http://localhost:32999/StockExpService.svc?wsdl" />
+    <MetadataFile FileName="StockExpService1.xsd" MetadataType="Schema" ID="0509cd31-44f0-4ade-9a94-6457c41d35a3" SourceId="1" SourceUrl="http://localhost:32999/StockExpService.svc?xsd=xsd3" />
+    <MetadataFile FileName="StockExpService2.xsd" MetadataType="Schema" ID="876edc33-b66f-42f0-876d-de75f49e8237" SourceId="1" SourceUrl="http://localhost:32999/StockExpService.svc?xsd=xsd0" />
+    <MetadataFile FileName="StockExpService.disco" MetadataType="Disco" ID="d0a036e2-e1b5-438c-b98f-a1873691a82d" SourceId="1" SourceUrl="http://localhost:32999/StockExpService.svc?disco" />
+    <MetadataFile FileName="StockExpService3.xsd" MetadataType="Schema" ID="ce2e7e85-3938-4c04-9493-5a944198ff38" SourceId="1" SourceUrl="http://localhost:32999/StockExpService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
