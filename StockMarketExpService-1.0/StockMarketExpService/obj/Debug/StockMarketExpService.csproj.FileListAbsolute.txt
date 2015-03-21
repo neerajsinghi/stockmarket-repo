@@ -4,3 +4,9 @@ E:\StockMarketExpService\StockMarketExpService\obj\Debug\StockMarketExpService.d
 E:\StockMarketExpService\StockMarketExpService\obj\Debug\StockMarketExpService.pdb
 E:\StockMarketExpService\StockMarketExpService\obj\Debug\StockMarketExpService.csproj.ResolveComReference.cache
 E:\StockMarketExpService\StockMarketExpService\obj\Debug\StockMarketExpService.csprojResolveAssemblyReference.cache
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\bin\StockMarketExpService.dll
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\bin\StockMarketExpService.pdb
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\obj\Debug\StockMarketExpService.csprojResolveAssemblyReference.cache
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\obj\Debug\StockMarketExpService.csproj.ResolveComReference.cache
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\obj\Debug\StockMarketExpService.dll
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\obj\Debug\StockMarketExpService.pdb

@@ -29,7 +29,7 @@ namespace StockMarketExpService
             int i = 0;
             string connetionString = null;
             SqlConnection connection;
-            connetionString = "Data Source=BOX\\NEER;Initial Catalog=stockHelper;Integrated Security=True";
+            connetionString = "Data Source=NIRAJ-PC\\NEERAJSQLSERVER;Initial Catalog=stockHelper;Integrated Security=True";
             connection = new SqlConnection(connetionString);
             using (connection)
             {
@@ -63,7 +63,7 @@ namespace StockMarketExpService
             List<StockName> C_val = new List<StockName>();
             string connetionString = null;
             SqlConnection connection;
-            connetionString = "Data Source=BOX\\NEER;Initial Catalog=stockHelper;Integrated Security=True";
+            connetionString = "Data Source=NIRAJ-PC\\NEERAJSQLSERVER;Initial Catalog=stockHelper;Integrated Security=True";
             connection = new SqlConnection(connetionString);
             using (connection)
             {
@@ -204,7 +204,7 @@ namespace StockMarketExpService
         {
             string connetionString = null;
             SqlConnection connection;
-            connetionString = "Data Source=BOX\\NEER;Initial Catalog=stockHelper;Integrated Security=True";
+            connetionString = "Data Source=NIRAJ-PC\\NEERAJSQLSERVER;Initial Catalog=stockHelper;Integrated Security=True";
             connection = new SqlConnection(connetionString);
             using (connection)
             {
@@ -228,7 +228,7 @@ namespace StockMarketExpService
         {
             string connetionString = null;
             SqlConnection connection;
-            connetionString = "Data Source=BOX\\NEER;Initial Catalog=stockHelper;Integrated Security=True";
+            connetionString = "Data Source=NIRAJ-PC\\NEERAJSQLSERVER;Initial Catalog=stockHelper;Integrated Security=True";
             connection = new SqlConnection(connetionString);
             using (connection)
             {
@@ -250,7 +250,7 @@ namespace StockMarketExpService
         {
             string connetionString = null;
             SqlConnection connection;
-            connetionString = "Data Source=BOX\\NEER;Initial Catalog=stockHelper;Integrated Security=True";
+            connetionString = "Data Source=NIRAJ-PC\\NEERAJSQLSERVER;Initial Catalog=stockHelper;Integrated Security=True";
             connection = new SqlConnection(connetionString);
             using (connection)
             {

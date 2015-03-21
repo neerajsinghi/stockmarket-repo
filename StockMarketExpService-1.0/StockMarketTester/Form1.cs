@@ -59,7 +59,7 @@ namespace StockMarketTester
             for (; TDays > 0; TDays--)
             {
 
-                if (!date1.DayOfWeek.ToString().Equals("Sunday") && !date1.DayOfWeek.ToString().Equals("Saturday"))
+                
                 if (!minAverageTextBox.Text.Equals("") && !maxAverageTextBox.Text.Equals("") && !cbChoices.Text.Equals("Select"))
                 {
                     Int32 lowerDays = Convert.ToInt32(minAverageTextBox.Text.Trim());
