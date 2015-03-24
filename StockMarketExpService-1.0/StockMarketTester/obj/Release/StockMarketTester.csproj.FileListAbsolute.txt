@@ -1,0 +1,15 @@
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\bin\Release\StockMarketTester.exe.config
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.csproj.ResolveComReference.cache
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\bin\Release\StockMarketTester.exe.manifest
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\bin\Release\StockMarketTester.application
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\bin\Release\StockMarketTester.exe
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\bin\Release\StockMarketTester.pdb
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.Form1.resources
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.Form2.resources
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.Form3.resources
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.Properties.Resources.resources
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.csproj.GenerateResource.Cache
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.exe.manifest
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.application
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.exe
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.pdb
