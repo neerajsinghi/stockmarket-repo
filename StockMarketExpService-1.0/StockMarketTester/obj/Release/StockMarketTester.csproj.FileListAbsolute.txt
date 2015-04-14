@@ -13,3 +13,6 @@ F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\Stoc
 F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.application
 F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.exe
 F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.pdb
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\bin\Release\StockMarketTester.exe.CodeAnalysisLog.xml
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\bin\Release\StockMarketTester.exe.lastcodeanalysissucceeded
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketTester\obj\Release\StockMarketTester.csprojResolveAssemblyReference.cache

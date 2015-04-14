@@ -4,3 +4,5 @@ F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\obj\Release\
 F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\obj\Release\StockMarketExpService.dll
 F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\obj\Release\StockMarketExpService.pdb
 F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\obj\Release\StockMarketExpService.csprojResolveAssemblyReference.cache
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\bin\StockMarketExpService.dll.CodeAnalysisLog.xml
+F:\stockmarket-repo\StockMarketExpService-1.0\StockMarketExpService\bin\StockMarketExpService.dll.lastcodeanalysissucceeded
