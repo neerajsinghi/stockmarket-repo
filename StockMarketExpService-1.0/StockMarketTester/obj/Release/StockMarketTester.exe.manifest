@@ -49,17 +49,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3MImVtMh+QpDD0OxSFrGgb94ChJJbymp7bAwTaI4vtg=</dsig:DigestValue>
+        <dsig:DigestValue>QXfPqmoxoR6HGy9Y5I8OiJAlAlttlufcgybYqPHgqVE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="StockMarketTester.exe.config" size="3248">
+  <file name="StockMarketTester.exe.config" size="3160">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/STrZsjj+hCVMu+TUlW1gAy5niYc3qQTxnMQpEt76CI=</dsig:DigestValue>
+      <dsig:DigestValue>BuTnvJhIqhEIqC3Qfg9F4YTu2IYCTwDTF3cBvx65NIw=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
